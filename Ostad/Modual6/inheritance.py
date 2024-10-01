@@ -1,4 +1,4 @@
-class Grandfather:  
+"""class Grandfather:  
     x = 10 
     y = 30 
     def addtwo(self):
@@ -26,3 +26,4 @@ obj.mul()
 obj.sub()
 
 
+"""
