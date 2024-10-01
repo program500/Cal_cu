@@ -1,0 +1,23 @@
+h1{
+    color:red;
+    background-color: black;
+    text-align:center;
+}
+h3{ 
+    text-align: center;
+    color:green; 
+    background-color: red;
+    text-transform: capitalize;
+    text-indent:5px;
+    
+}
+
+
+.p{
+    
+   color:aqua;
+   background-color: black;
+   text-emphasis-color: rgb(78, 78, 35);
+   letter-spacing: 5px;
+}
+

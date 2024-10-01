@@ -1,0 +1,25 @@
+/*Css Border Class04*/
+.p1{
+    
+    border-width: 5px;
+    border-style: solid;
+
+}
+
+.p2{
+    background-color: mediumaquamarine;
+    color: red;
+}
+h1{
+    background-image:url(im.png);
+    
+}
+h4{
+    color:crimson;
+}
+#o2{
+    border:5px solid red ;
+    border: width 10px;
+    border-style: dotted;
+    border-color:green;
+}

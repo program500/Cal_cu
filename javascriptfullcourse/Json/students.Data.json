@@ -1,0 +1,15 @@
+
+
+{
+    "name":  "Abid Hasan", 
+    "middlename": "Null", 
+    "age": 31, 
+    "cgpa": 3.55, 
+    "isRasistrade": true, 
+    "langeage": ["Bangla", "English", "hindi"], 
+    "friends" : {
+        "name": "Saim", 
+        "age": 19
+    }
+
+}
